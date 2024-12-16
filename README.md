@@ -21,8 +21,7 @@ Groq API Key: You will need an API key for Groq's LLM.
 Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/moonai-youtube-transcript-analyzer.git
-cd moonai-youtube-transcript-analyzer
+Fork this github
 Install dependencies:
 pip install -r requirements.txt
 Set your Groq API key: In the main.py file, replace the GROQ_API_KEY placeholder with your actual Groq API key.
