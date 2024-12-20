@@ -1,3 +1,5 @@
+Change YOUR_API_KEY to your Groq API key.
+
 MoonAI YouTube Transcript Analyzer
 
 This repository provides a GUI-based application for extracting and analyzing YouTube video transcripts. Using the YouTube Transcript API, it allows users to download, summarize, and interact with the video transcript through a chat interface powered by the Groq API.
