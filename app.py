@@ -404,7 +404,7 @@ class ModernYouTubeTranscriptApp(QWidget):
         chat_dialog.exec()
 
 def main():
-    GROQ_API_KEY = "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"
+    GROQ_API_KEY = "YOUR_API_KEY"
 
 
     app = QApplication(sys.argv)
